@@ -79,9 +79,9 @@ font-size: 100px;
 }
 
 #mainSection .chezz .six{
-    position: absolute;
+    position:fixed;
     left: 50%;
-    margin-top: 3%;
+    
     
 }
 
@@ -97,6 +97,5 @@ font-size: 100px;
 
 #mainSection.description{
     float: right;
-    bottom: 0px;
 }
 
