@@ -79,7 +79,7 @@ font-size: 100px;
 }
 
 #mainSection .chezz .six{
-    position:fixed;
+    position:absolute;
     left: 50%;
 }
 
