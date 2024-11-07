@@ -81,18 +81,6 @@ font-size: 100px;
 #mainSection .chezz .six{
     position:fixed;
     left: 50%;
-    
-    
-}
-
-#mainSection .chezz .five{
-    float: right;
-    margin: 3%;
-}
-
-#mainSection .chezz .seven{
-    float: left;
-    margin: 3%;
 }
 
 #mainSection.description{
