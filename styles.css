@@ -1,6 +1,5 @@
-html { 
-    height: 100%; 
- }
+html { height: 100%;
+    transform: scale(90%)  }
 
 body{
     margin: 0%;
@@ -17,7 +16,7 @@ h1{
     font-size: 100px;
     font-style: normal;
     text-align: right;
-    color: #ffffff;
+    color: #000000;
     margin: 0%;
     border: 0px;
     padding: 0%;
@@ -69,40 +68,41 @@ a{
     background-color: rgb(204, 204, 238);
 }
 
-#topText{
-font-size: 100px;
-}
-
-#leftHandSection .home{
-    width: 1000px;
-    height: 1000px;
-}
-#mainSection .chezz{
+#mainSection .myimg {
     float: right;
     background-color: rgb(255, 255, 255);
     border: 10px;
     padding: 10px;
     width: 100%;
 }
-#mainSection .chezz .five{
-    float: right;
-    margin: 3%;
-}
-#mainSection .chezz .six{
+
+#mainSection .myimg .imageThree{
     position: absolute;
     left: 50%;
     margin-top: 3%;
     
 }
 
-#mainSection .chezz .seven{
+#mainSection .myimg .mosImage{
+    float: right;
+    margin: 3%;
+}
+
+#mainSection .myimg .mosOtherImage{
     float: left;
     margin: 3%;
 }
 
-.description{
-    float: right;
-    bottom:0%;
-
+#mainSection .moText {
+    float: left;
 }
 
+#mainSection .Location{
+    float: right;
+}
+
+#mainSection .Location .barbershop{
+    float: right;
+    width: 100%;
+    height: 500px;
+}
