@@ -95,7 +95,8 @@ font-size: 100px;
     margin: 3%;
 }
 
-.description{
+#mainSection.description{
     float: right;
+    bottom: 0px;
 }
 
