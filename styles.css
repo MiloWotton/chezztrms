@@ -68,7 +68,7 @@ a{
     background-color: rgb(204, 204, 238);
 }
 
-#mainSection .myimg {
+#mainSection .chezz{
     float: right;
     background-color: rgb(255, 255, 255);
     border: 10px;
@@ -76,33 +76,24 @@ a{
     width: 100%;
 }
 
-#mainSection .myimg .imageThree{
+#mainSection .chezz .seven{
     position: absolute;
     left: 50%;
     margin-top: 3%;
     
 }
 
-#mainSection .myimg .mosImage{
+#mainSection .chezz .six{
     float: right;
     margin: 3%;
 }
 
-#mainSection .myimg .mosOtherImage{
+#mainSection .chezz .five{
     float: left;
     margin: 3%;
 }
 
-#mainSection .moText {
+#mainSection .description {
     float: left;
 }
 
-#mainSection .Location{
-    float: right;
-}
-
-#mainSection .Location .barbershop{
-    float: right;
-    width: 100%;
-    height: 500px;
-}
